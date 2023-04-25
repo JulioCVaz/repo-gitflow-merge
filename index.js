@@ -14,3 +14,4 @@ console.log("codepush 3");
 console.log("merge 3 1");
 console.log("merge 3 2");
 console.log("merge 4");
+console.log("merge 5");
