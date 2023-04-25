@@ -9,3 +9,4 @@ console.log("merge 2");
 console.log("merge 2 1");
 console.log("merge 2 2");
 console.log("merge 3 1");
+console.log("merge 3 2");
