@@ -14,6 +14,9 @@ console.log("merge 2 2");
 console.log("codepush 3");
 console.log("merge 3 1");
 console.log("merge 3 2");
+<<<<<<< HEAD
 =======
 console.log("merge 3 1");
 >>>>>>> cbc2206 (feat: merge 3 console 1)
+=======
+>>>>>>> a1c7c84 (feat: merge 3 console 2)
